@@ -11,3 +11,5 @@ Hopefully these can give you inspiration to adapt and add more items for your ne
 ## Currently available checklists
 
 - [Mobile app testing](/mobile_testing.md)
+
+For more useful tips and tricks on testing, automation and programming. Check out [automation hacks blog](https://automationhacks.blog)
